@@ -2,6 +2,8 @@
 
 **Yuhan Xiao**
 
+------
+
 ### Description
 
 El-Tetris improves Pierre Dellacherie’s Algorithm greatly to play  tetris. The key polish focuses on weights of the six features listed as follow:
@@ -27,6 +29,8 @@ Here are the weights:
 |    4    | -9.348695305445199  |
 |    5    | -7.899265427351652  |
 |    6    | -3.3855972247263626 |
+
+
 
 
 
